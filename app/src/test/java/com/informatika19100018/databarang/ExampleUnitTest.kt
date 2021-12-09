@@ -1,4 +1,4 @@
-package com.informatika19100018.databarang
+package com.informatika19100104.databarang
 
 import org.junit.Test
 
